@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = ‘HJModel’
   s.version          = '0.1.0'
-  s.summary          = ‘baseModel’
+  s.summary          = ‘一个测试的basemodel’
   s.homepage         = 'https://github.com/jason469618528/HJModel'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'jason469618528' => ‘469618528@qq.com' }
